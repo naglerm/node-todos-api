@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/naglerm/node-todos-api#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "mongoose": "^4.11.0",
+    "nodemon": "^1.11.0",
     "nvm": "0.0.4"
   }
 }
